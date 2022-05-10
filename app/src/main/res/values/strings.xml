@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Canary</string>
+    <string name="tags">Tags</string>
+    <string name="trends">Trends</string>
+    <string name="history">History</string>
+    <string name="get_help">Get Help</string>
+    <string name="mood_entry_fragment_tag">mood_entry</string>
+    <string name="title_of_a_form">Title of a Form</string>
+    <string name="label_for_an_edittext">Label for an EditText</string>
+    <string name="you_can_type_here">You can type here!</string>
+</resources>

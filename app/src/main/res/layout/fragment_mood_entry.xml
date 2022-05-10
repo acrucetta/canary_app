@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/title_of_a_form"
+        android:textFontWeight="6"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/label_for_an_edittext"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/first_edit_text"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/you_can_type_here"
+        android:padding="10dp"
+        android:inputType="text"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/label_for_an_edittext"
+        android:textSize="20sp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/you_can_type_here"
+        android:padding="10dp"
+        android:inputType="text"
+        android:textSize="20sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/label_for_an_edittext"
+        android:textSize="20sp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/you_can_type_here"
+        android:padding="10dp"
+        android:inputType="text"
+        android:textSize="20sp" />
+
+</LinearLayout>
