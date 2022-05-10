@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Canary</string>
+    <string name="tags">Tags</string>
+    <string name="trends">Trends</string>
+    <string name="history">History</string>
+    <string name="get_help">Get Help</string>
+    <string name="mood_entry_fragment_tag">mood_entry</string>
+    <string name="how_are_you_doing">How are you doing?</string>
+    <string name="what_have_you_done_lately">What have you done lately?</string>
+    <string name="is_there_anything_else_you_want_to_remember_about_this_moment">Is there anything else you want to remember about this moment?</string>
+    <string name="i_noticed_that">I noticed that...</string>
+    <string name="record_my_mood">Record my mood!</string>
+</resources>
